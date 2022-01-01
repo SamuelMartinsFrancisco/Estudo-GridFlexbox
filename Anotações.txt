@@ -1,0 +1,12 @@
+- Servidor browser-sync
+
+https://blog.caelum.com.br/browser-sync-indispensavel-para-desenvolver-sites-em-varios-dispositivos/amp/
+
+Comandos:
+    - npm install -g browser-sync
+    - browser-sync start --server 'Grid' --files 'Grid'
+    ...
+
+
+Definir o nome do arquivo HTML como "index.html"
+    - https://stackoverflow.com/questions/28962528/browsersync-cannot-get
