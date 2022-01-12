@@ -45,3 +45,9 @@ Observações:
             grid-column-start: 1;
             grid-column-end: 3;
             //
+            
+            
+            
+Tutoriais base:
+    - https://www.youtube.com/watch?v=x-4z_u8LcGc&t=647s&ab_channel=Origamid
+    - https://www.youtube.com/watch?v=HN1UjzRSdBk&ab_channel=Rocketseat
