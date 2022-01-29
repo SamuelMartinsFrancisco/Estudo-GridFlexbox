@@ -49,5 +49,5 @@ Observações:
             
             
 Tutoriais base:
-    - https://www.youtube.com/watch?v=x-4z_u8LcGc&t=647s&ab_channel=Origamid
-    - https://www.youtube.com/watch?v=HN1UjzRSdBk&ab_channel=Rocketseat
+    <li> https://www.youtube.com/watch?v=x-4z_u8LcGc&t=647s&ab_channel=Origamid </li>
+    <li> https://www.youtube.com/watch?v=HN1UjzRSdBk&ab_channel=Rocketseat </li>
